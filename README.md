@@ -1,173 +1,30 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Akash Rajpurohit — a Software Engineer 👨‍💻
+<h1 align="center">Hi 👋, I'm David Modestus</h1>
+<h3 align="center">A passionate FullStack developer from Tanzania</h3>
 
-[![Website Badge](https://img.shields.io/badge/-akashrajpurohit.com-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://akashrajpurohit.com/?ref=github-profile-readme-badge)
-[![Linkedin Badge](https://img.shields.io/badge/-@AkashRajpurohit-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/AkashRajpurohit)
-[![Twitter Badge](https://img.shields.io/twitter/follow/akashwhocodes)](https://twitter.com/AkashWhoCodes)
-![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iaefselcode&label=Profile%20views&color=0e75b6&style=flat" alt="iaefselcode" /> </p>
 
-<img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
-  
-### Glad to see you here!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaefselcode" alt="iaefselcode" /></a> </p>
 
-Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and building my home lab 🚀.
-  
-<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
+- 🔭 I’m currently working on **Teachers Management System**
 
-### Talking about Personal Stuffs:
+- 🌱 I’m currently learning **React Native with Expo**
 
-- 🛠 &nbsp; I'm currently building [Eternal Vault](https://eternalvault.app?utm_source=github&utm_medium=readme) - The secure bridge between your life and your loved ones.
-- 🚀 &nbsp; I’m currently learning about Go, Linux, Networking, Ansible and playing around with Raspberry Pi's.
-- 💬 &nbsp; I write blogs [here](https://akashrajpurohit.com/blogs/?utm_source=github&utm_medium=readme)!
-- 📰 &nbsp; I have started sending out newsletters, subscribe it [here](https://akashrajpurohit.com/newsletter/?utm_source=github&utm_medium=readme)
-- 👾 &nbsp; Fun fact: I use tabs over spaces.
-- 📫 &nbsp; How to reach me: me@akashrajpurohit.com 
+- 👨‍💻 All of my projects are available at [iaefsel.vercel.app](iaefsel.vercel.app)
 
-### My Absolute Favorites:
+- 📫 How to reach me **davidmodestus868@gmail.com**
 
-- 💻 &nbsp; I love exploring new tech stack and developing new stuffs
-- 📰 &nbsp; Reading & writing tech blogs whenever possible
-- 🍕 &nbsp; Hackathons & coding competitions
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/david modestus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david modestus" height="30" width="40" /></a>
+<a href="https://instagram.com/iaefse1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaefse1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/david modestus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="david modestus" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png" alt="Go"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png" alt="nextjs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
-</code> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iaefselcode&show_icons=true&locale=en&layout=compact" alt="iaefselcode" /></p>
 
-### Projects and Dev Stuffs: 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iaefselcode&show_icons=true&locale=en" alt="iaefselcode" /></p>
 
-  <img height="170em" src="https://grs-akash.vercel.app/api?username=AkashRajpurohit&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=AkashRajpurohit&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/howtoprofessionallysay/"><b>🧍 How to professionally say</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/howtoprofessionallysay?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/howtoprofessionallysay?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/howtoprofessionallysay?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/git-sync"><b>🔄 git-sync</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/git-sync?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/git-sync?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/git-sync?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/git-sync?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/git-sync?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/clipper"><b>📋 Clipper</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/clipper?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/clipper?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/clipper?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/clipper?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/clipper?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/github-emojis"><b>🚀 Github Emojis</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/github-emojis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/github-emojis?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/github-emojis?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/Spell-IT"><b>🧮 Spell-IT</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/Spell-IT?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/Spell-IT?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/Spell-IT?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/Spell-IT?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/Spell-IT?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/ts-npm-template"><b>📦 ts-npm-template</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/ts-npm-template?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/ts-npm-template?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/ts-npm-template?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/ts-npm-template?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/ts-npm-template?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	<td><a href="https://github.com/AkashRajpurohit/time-to-go"><b>🔗 time-to-go</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashRajpurohit/time-to-go?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashRajpurohit/time-to-go?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashRajpurohit/time-to-go?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AkashRajpurohit/time-to-go?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AkashRajpurohit/time-to-go?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> MacOS / Linux</li>
-  	  <li><b>Browser: </b> Firefox / Brave Browser</li>
-	  <li><b>Code Editor:</b> Visual Studio Code / Neovim </li>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
-	</ul>
-	<b>Read more about it <a target="_blank" rel="norefferer noopener" href="https://akashrajpurohit.com/uses/?ref=github-profile-readme">here</a></b>
-</details> 
-
-<details>	
-  <br />
-  <summary><b>✍🏼 Recent Published Blogs</b></summary>
-
-  <!-- BLOG-POST-LIST:START -->
- - 🚀 <a target='_blank' href='https://akashrajpurohit.com/blog/choosing-the-right-vps-provider-comparing-digitalocean-linode-vultr-hetzner-for-different-use-cases/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Choosing the Right VPS Provider - comparing DigitalOcean, Linode, Vultr, Hetzner for different use cases</a>
- - 🔥 <a target='_blank' href='https://akashrajpurohit.com/blog/vps-vs-shared-hosting-vs-managed-services-when-to-choose-what/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>VPS vs Shared Hosting vs Managed Services - When to Choose What</a>
- - ✍🏽 <a target='_blank' href='https://akashrajpurohit.com/blog/beszel-selfhosted-server-monitoring-solution/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Beszel — Lightweight self-hosted server monitoring for your homelab</a>
- - 👨‍💻 <a target='_blank' href='https://akashrajpurohit.com/blog/the-promotion-trap/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>The Promotion Trap</a>
- - ✍🏽 <a target='_blank' href='https://akashrajpurohit.com/blog/understanding-vps-resources-ram-cpu-storage-bandwidth-limits-and-monitoring/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Understanding VPS Resources - RAM, CPU, storage, bandwidth limits and monitoring</a>
- - 👨‍💻 <a target='_blank' href='https://akashrajpurohit.com/blog/your-code-doesnt-matter-but-your-impact-does/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Your Code Doesn&#39;t Matter &lpar;But Your Impact Does&rpar;</a>
- - 🔥 <a target='_blank' href='https://akashrajpurohit.com/blog/initial-vps-setup-checklist-first-30-minutes/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Initial VPS Setup Checklist - first 30 minutes on a fresh server</a>
- - ✍🏽 <a target='_blank' href='https://akashrajpurohit.com/blog/engineers-are-like-servers/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Engineers Are Like Servers</a>
- - 🚀 <a target='_blank' href='https://akashrajpurohit.com/blog/redlib-selfhosted-reddit-browsing-without-the-bloat/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Redlib — Self-hosted Reddit browsing without the bloat</a>
- - 🚀 <a target='_blank' href='https://akashrajpurohit.com/blog/rybbit-privacy-focused-open-source-analytics-platform/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Rybbit — Privacy-focused open-source analytics that actually makes sense</a>
- - 🔥 <a target='_blank' href='https://akashrajpurohit.com/blog/safeline-waf-protecting-your-web-applications-with-selfhosted-security/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>SafeLine WAF — Self-Hosted Web Application Firewall for Your Homelab</a>
- - ✍🏽 <a target='_blank' href='https://akashrajpurohit.com/blog/fail2ban-protecting-your-homelab-from-brute-force-attacks/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Fail2ban — Protecting Your Homelab from Brute Force Attacks</a>
- - 🚀 <a target='_blank' href='https://akashrajpurohit.com/blog/selfhost-searxng-for-privacy-focused-search/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>SearXNG — Privacy-focused metasearch engine for your homelab</a>
- - 🥳 <a target='_blank' href='https://akashrajpurohit.com/blog/selfhost-stirling-pdf-for-pdf-manipulation/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>Stirling PDF — Self-hosted PDF manipulation powerhouse</a>
- - ✍🏽 <a target='_blank' href='https://akashrajpurohit.com/blog/setup-n8n-for-homelab-automation/?utm_source=akashrajpurohit.com&utm_medium=rss&via=github-profile-readme'>n8n — Powerful automation for your homelab services</a><!-- BLOG-POST-LIST:END -->  
-
-</details>
-
-<details>
-<br />
-<summary><b>❝ While you are here, here’s an Office quote for you</b></summary>
-
- ![](https://officeapi.akashrajpurohit.com/quote/random?responseType=svg)
-
- > The quote is powered by ["The Office API"](https://github.com/AkashRajpurohit/the-office-api) project
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iaefselcode&" alt="iaefselcode" /></p>
