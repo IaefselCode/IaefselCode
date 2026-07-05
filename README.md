@@ -91,7 +91,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 
 ## Socials
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/yourusername">
     <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
   </a>
