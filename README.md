@@ -4,9 +4,9 @@
 
 I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about building scalable web and mobile applications with modern technologies. I enjoy creating clean architectures, secure APIs, intuitive user experiences, and continuously learning new technologies.
 
-- 🌍 Based in **Mwanza, Tanzania**
+- 🌍 Based in **Mbeya, Tanzania**
 - 💼 Full-Stack Software Engineer
-- 🚀 Currently building **DocFlow**
+- 🚀 Currently building <a href="https://docflow-snowy-kappa.vercel.app/">DocFlow</a>
 - 📚 Learning **System Design, AI, IoT, UX/UI & Java**
 - 🤝 Open to collaborating on Open Source, SaaS, AI and Enterprise applications
 
@@ -24,9 +24,9 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 <img src="https://skillicons.dev/icons?i=ts" height="45"/>
 </a>
 
-<a href="https://react.dev/">
+<!-- <a href="https://react.dev/"> -->
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
-</a>
+<!-- </a> -->
 
 <a href="https://nextjs.org/">
 <img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
