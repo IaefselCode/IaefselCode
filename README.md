@@ -10,7 +10,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 - 📚 Learning **System Design, AI, IoT, UX/UI & Java**
 - 🤝 Open to collaborating on Open Source, SaaS, AI and Enterprise applications
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -88,7 +88,6 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
   </a>
 </p>
----
 
 ## Socials
 
