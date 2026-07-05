@@ -26,8 +26,21 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="React Native" />
   </a>
   <a href="https://expo.dev/">
-    <img src="./assets/icons/expo-light.svg#gh-light-mode-only" height="45" alt="Expo" />
-<img src="./assets/icons/expo-dark.svg#gh-dark-mode-only" height="45" alt="Expo" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/icons/expo-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/icons/expo-light.svg"
+    />
+    <img
+      src="./assets/icons/expo-light.svg"
+      height="45"
+      alt="Expo"
+    />
+  </picture>
   </a>
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
