@@ -89,6 +89,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
   </a>
 </p>
 ---
+
 ## Socials
 
 <p align="center">
