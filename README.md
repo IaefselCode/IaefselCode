@@ -1,99 +1,117 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="wave"> I'm David Modestus Mbwatila
+# Hi 👋 I'm David Modestus Mbwatila
 
-===================================================================================================================================
+### Full-Stack Software Engineer
 
-### Full-Stack Software Engineer | Web & Mobile Developer
+I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about building scalable web and mobile applications with modern technologies. I enjoy creating clean architectures, secure APIs, intuitive user experiences, and continuously learning new technologies.
 
-I'm a passionate Full-Stack Software Engineer from Tanzania who enjoys building scalable, secure, and user-friendly applications. I specialize in modern JavaScript and TypeScript ecosystems, developing high-performance web and mobile applications with **Next.js, React, React Native (Expo), NestJS, and Node.js**.
+- 🌍 Based in **Mwanza, Tanzania**
+- 💼 Full-Stack Software Engineer
+- 🚀 Currently building **DocFlow**
+- 📚 Learning **System Design, AI, IoT, UX/UI & Java**
+- 🤝 Open to collaborating on Open Source, SaaS, AI and Enterprise applications
 
-I enjoy solving real-world problems through clean architecture, REST APIs, authentication systems, and responsive user interfaces. Beyond coding, I'm constantly learning new technologies and exploring software engineering concepts that improve scalability, maintainability, and developer experience.
-
-* 🌍 I'm based in **Mwanza, Tanzania**
-* 💻 I'm a **Full-Stack Software Engineer**
-* 📧 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
-* 🚀 Currently building **DocFlow**, a modern document management platform
-* 📱 Also developing cross-platform mobile applications using **React Native (Expo)**
-* 🧠 Currently learning **System Design, IoT, UX/UI Design, AI Integration, and Java**
-* 🤝 Open to collaborating on **SaaS, AI, FinTech, HealthTech, Education, Open Source, and Enterprise Applications**
-* ⚡ Outside coding I enjoy learning emerging technologies, improving my engineering skills, football, and movies.
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+---
 
 ## 🚀 Tech Stack
 
-### Languages
+<p align="left">
 
-JavaScript • TypeScript • HTML • CSS • SQL
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+</a>
 
-### Frontend
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" height="45"/>
+</a>
 
-* React
-* Next.js
-* Tailwind CSS
-* Redux Toolkit
-* Zustand
-* Shadcn/UI
-* Material UI
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
 
-### Backend
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+</a>
 
-* Node.js
-* NestJS
-* Express.js
-* REST APIs
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* File Uploads
-* Email Services
-* Validation
-* Swagger/OpenAPI
+<a href="https://reactnative.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
 
-### Mobile
+<a href="https://expo.dev/">
+<img src="https://skillicons.dev/icons?i=expo" height="45"/>
+</a>
 
-* React Native
-* Expo
-* Expo Router
-* NativeWind
+<a href="https://nestjs.com/">
+<img src="https://skillicons.dev/icons?i=nestjs" height="45"/>
+</a>
 
-### Databases
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+</a>
 
-* PostgreSQL
-* MongoDB
-* Prisma ORM
-* Drizzle ORM
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+</a>
 
-### DevOps & Tools
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</a>
 
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
-* Vercel
-* Railway
-* Render
-* Cloudinary
-* Resend
-* Mailpit
+<a href="https://www.prisma.io/">
+<img src="https://skillicons.dev/icons?i=prisma" height="45"/>
+</a>
 
-### Currently Exploring
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+</a>
 
-* System Design
-* Artificial Intelligence
-* Internet of Things (IoT)
-* UX/UI Design
-* Java
-* Microservices
-* Cloud Computing
+<a href="https://redux.js.org/">
+<img src="https://skillicons.dev/icons?i=redux" height="45"/>
+</a>
 
-## 🌐 Connect With Me
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+</a>
 
-* GitHub
-* LinkedIn
-* X (Twitter)
-* Instagram
-* Threads
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-*(Replace the placeholders above with your actual profile links.)*
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+</a>
+
+<a href="https://vercel.com/">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</a>
+
+<a href="https://figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
