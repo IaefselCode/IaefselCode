@@ -12,7 +12,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
   </a>
@@ -88,10 +88,8 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
   </a>
 </p>
-
 ---
-
-## 🌐 Connect with Me
+## Socials
 
 <p align="center">
   <a href="https://github.com/yourusername">
