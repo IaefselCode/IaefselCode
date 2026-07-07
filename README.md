@@ -13,28 +13,20 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 ## Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
   </a>
 
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
-  </a>
-
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
   </a>
 
-  <a href="https://reactnative.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React Native" />
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
   </a>
 
   <a href="https://expo.dev/">
@@ -55,36 +47,12 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     </picture>
   </a>
 
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
-  </a>
-
-  <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux" />
-  </a>
-
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
-  </a>
-
   <a href="https://nodejs.org/">
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
   </a>
 
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" />
-  </a>
-
   <a href="https://nestjs.com/">
     <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" />
-  </a>
-
-  <a href="https://graphql.org/">
-    <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="GraphQL" />
-  </a>
-
-  <a href="https://redis.io/">
-    <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" />
   </a>
 
   <a href="https://www.postgresql.org/">
@@ -95,36 +63,12 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
   </a>
 
-  <a href="https://www.prisma.io/">
-    <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma ORM" />
-  </a>
-
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase" />
-  </a>
-
-  <a href="https://supabase.com/">
-    <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
-  </a>
-
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
-  </a>
-
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
   </a>
 
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  </a>
-
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-
-  <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
   </a>
 
   <a href="https://aws.amazon.com/">
