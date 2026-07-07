@@ -71,12 +71,20 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
   </a>
 
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" />
+  </a>
+
   <a href="https://nestjs.com/">
     <img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" />
   </a>
 
   <a href="https://graphql.org/">
     <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="GraphQL" />
+  </a>
+
+  <a href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" />
   </a>
 
   <a href="https://www.postgresql.org/">
@@ -117,10 +125,6 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 
   <a href="https://vercel.com/">
     <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
-  </a>
-
-  <a href="https://railway.com/">
-    <img src="https://skillicons.dev/icons?i=railway" height="45" alt="Railway" />
   </a>
 
   <a href="https://aws.amazon.com/">
