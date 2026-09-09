@@ -34,7 +34,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
   </a>
 
   <a href="https://expo.dev/">
-    <picture>
+    <!-- <picture>
       <source
         media="(prefers-color-scheme: dark)"
         srcset="./assets/icons/expo-dark.svg"
@@ -48,7 +48,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
         height="45"
         alt="Expo"
       />
-    </picture>
+    </picture> -->
   </a>
 
   <a href="https://nodejs.org/">
