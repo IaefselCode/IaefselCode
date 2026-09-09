@@ -37,11 +37,11 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="./assets/icons/expo-dark.svg"
+        srcset="./assets/icons/expo-dark.png"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="./assets/icons/expo-light.svg"
+        srcset="./assets/icons/expo-light.png"
       />
       <img
         src="./assets/icons/expo-light.svg"
