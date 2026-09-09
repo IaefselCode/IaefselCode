@@ -49,6 +49,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
         alt="Expo"
       />
     </picture> -->
+    <img src="https://skillicons.dev/icons?i=expo" height="45" alt="Next.js" />
   </a>
 
   <a href="https://nodejs.org/">
