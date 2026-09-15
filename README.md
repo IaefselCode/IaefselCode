@@ -13,26 +13,27 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 ## Tech Stack
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
-  </a>
-
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
   </a>
-
+  
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
+  </a>
+  
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  </a>
-
- <a href="https://angular.dev/">
-    <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
   </a>
   
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
   </a>
 
+ <a href="https://angular.dev/">
+    <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
+  </a>
+  
   <a href="https://expo.dev/">
     <picture>
       <source
