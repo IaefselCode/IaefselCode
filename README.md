@@ -7,7 +7,7 @@ I'm a Full-Stack Software Engineer from 🇹🇿 Tanzania passionate about build
 - 🌍 Based in **Mbeya, Tanzania**
 - 💼 Full-Stack Software Engineer
 - 🚀 Currently building <a href="https://docflow-snowy-kappa.vercel.app/">DocFlow</a>
-- 📚 Learning **System Design, AI, IoT, UX/UI & Java**
+- 📚 Learning **System Design, AI, IoT, UX/UI**
 - 🤝 Open to collaborating on Open Source, SaaS, AI and Enterprise applications
 
 ## Tech Stack
